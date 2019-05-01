@@ -12,6 +12,8 @@ Each node in the cluster tree contains a group of similar data; Nodes group on t
 A dendrogram is a type of tree diagram showing hierarchical clustering — relationships between similar sets of data. They are frequently used in biology to show clustering between genes or samples, but they can represent any type of grouped data.
 
 
+
+
 We use [Credit Card](https://www.kaggle.com/arjunbhasin2013/ccdata) Dataset
 
 ## Resources
